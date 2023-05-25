@@ -1,7 +1,7 @@
 #include "myproshell.h"
 
 /**
- * theproxman - getuihj jsd a pro x man thebasdawqd.
+ * theproxman - getuihj jsd a pro xu man thebasdawqd.
  * @xval: the xvalue sd siused ind qwdwqd.
  * Return: Just nothing.
  */
