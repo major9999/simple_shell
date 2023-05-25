@@ -14,8 +14,8 @@ int intosketiv(info_t *info)
 
 /**
  * is_delim - ioqwdijqw ijqwdwqid hhghuqwd jqwdiwqd.
- * @c: wqidjiod oiqjdwiowqd iojqwdioqd ijqwd.
- * @delim: oijdwqiojq ioqdjioqwd oiqjwdqwoidj q.
+ * @c: wqidjiosfd oigfgqjdwiowqd iojqwdioqd ijqwd.
+ * @delim: obsijdwqiojq iodfgqdjioqwd oiqjwdqwoidj q.
  * Return: it's just int jqjiqwdqwd.
  */
 
